@@ -1,7 +1,5 @@
 # ChatOps In Action
 
-s
-
 - ChatOps in a nutshell
 - Level 1 - Push information to the Chat
 - Level 2 - Linking to stuff
