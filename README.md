@@ -1,8 +1,7 @@
 # ChatOps In Action
 
-- ChatOps in a nutshell
-- Level 1 - Push information to the Chat
-- Level 2 - Linking to stuff
-- Level 3 - Exposing common commands
-- Level 4 - Exposing powerful commands
-- Level 5 - Automated reactions
+Is the chatroom a part of your companies's culture? If so then ChatOps should also be. Rather then talking about your tools in the chatroom, talk to your tools in the chatroom! 
+
+In this fast paced talk I will give a short introduction into what ChatOps is and some of the key benefits. After that I will start with simple but very useful commands you can easily and safely implement in your companies chat. From there I will build upon those simple commands with examples of increasingly more powerful commands. This includes examples of wrapping ChatOps scripts around commonly used everyday commands such as deployment. To more powerful operations specific tasks such as managing the state of services, pulling logs from multiple servers at once, and bring those logs directly back into the chatroom conversation. I'll wrap things up with an example of using multiple ChatBots that working together to automatically execute tasks based on what is happening in the chatroom. This can be as simple as pulling back logs and graphs when a notification of a failing service is mentioned in the chat, to automatically executing commands to fixing that failing service without the need for human intervention.
+
+Attendees will leave with easy to implement but very useful ChatOps commands that will help plant the seed by showing how useful ChatOps is and inspiration for more powerful commands that can simplify sometimes confusing and or dangerous operations tasks if not completely automate them. 
